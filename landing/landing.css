@@ -1,0 +1,15 @@
+ body {
+      background: linear-gradient(to right, #4b6cb7, #182848);
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .btn-role {
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
